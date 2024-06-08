@@ -1,1 +1,3 @@
 # Implementasi-Integrasi-Numerik
+
+Proyek ini bertujuan untuk menghitung nilai integral menggunakan metode integrasi trapesium, khususnya untuk mendekati nilai pi. Metode integrasi trapesium membagi interval [0, 1] menjadi N subinterval dan menghitung luas trapesium di bawah kurva fungsi \( f(x) = \frac{4}{1 + x^2} \). Penggunaan proyek ini melibatkan instalasi Python dan modul `colorama`, kemudian menjalankan script Python untuk melihat hasil perhitungan. Hasil pengujian menunjukkan bahwa galat RMS berkurang seiring peningkatan nilai N (dari 10, 100, 1000, hingga 10000), yang berarti akurasi meningkat.
